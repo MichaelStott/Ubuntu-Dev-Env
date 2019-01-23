@@ -5,6 +5,12 @@ THEME_DIR=$HOME"/.emacs.d/themes/"
 THEME="melancholy-theme.el"
 THEME_GIT_RAW="https://raw.githubusercontent.com/techquila/melancholy-theme/master/"
 
+# Exit if emacs is already installed.
+if [ -x "$(command -v emacs)" ]; then
+    echo "emacs is already installed."
+    return
+fi
+
 # Get emacs
 apt-get install emacs
 
