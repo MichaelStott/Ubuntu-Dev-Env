@@ -7,3 +7,8 @@ Automating/documenting my Ubuntu development environment
 - emacs (Bash & Python scripting)
 - vscode
 
+### Networking Tools
+- burpsuite (community edition)
+- nmap
+- wireshark
+
