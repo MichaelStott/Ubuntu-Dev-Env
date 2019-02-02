@@ -1,6 +1,6 @@
 # Ubuntu-Dev-Env
 
-Automating/documenting my Ubuntu development environment
+Automating/documenting my Ubuntu (18.04) development environment
 
 ### Editors
 
