@@ -4,7 +4,7 @@ Automating/documenting my Ubuntu (18.04) development environment
 
 ### Editors
 
-- emacs (Bash & Python scripting)
+- emacs
 - vscode
 
 ### Networking Tools
