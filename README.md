@@ -1,9 +1,14 @@
 # Ubuntu-Dev-Env
 
-Automating/documenting my Ubuntu development environment
+Automating/documenting my Ubuntu (18.04) development environment
 
 ### Editors
 
-- emacs (Bash & Python scripting)
+- emacs
 - vscode
+
+### Networking Tools
+- burpsuite (community edition)
+- nmap
+- wireshark
 
