@@ -7,6 +7,4 @@ source burpsuite.sh
 # TODO: Can we do any further configuration here?
 
 # Install wireshark
-add-apt-repository ppa:wireshark-dev/stable
-apt-get update
 apt-get install wireshark
